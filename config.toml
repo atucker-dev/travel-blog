@@ -1,0 +1,78 @@
+theme = "blist"
+languageCode = "en-US"
+baseurl = "https://racheltravelblog.com"
+title = "Home"
+
+[params]
+  description = "hugo site parameters"
+  name = "Blist Theme"
+  
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+  
+  # Enable search in header
+  enableSearch = true
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2021 - Rachel Tucker · All rights reserved"
+  favicon = "a680w-wf6km.svg"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-300"
+
+[params.homepage]
+  title = "Rachel's Travel Blog"
+  description = "Under Construction - please check back soon for content"
+  photo = "/animal-kingdom-everest.jpg"
+
+[params.homepage.social]
+  title = "Follow me"
+  description = "I like anything Disney or Harry Potter!"
+  twitter = "https://twitter.com/"
+  reddit = "https://reddit.com/"
+  medium = "https://medium.com/"
+  linkedin = "https://linkedin.com"
+  pinterest = "https://www.pinterest.com/"
+  facebook = "https://facebook.com"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/index.html"
+
+[[menu.main]]
+  name = "Markdown"
+  url = "/markdown/index.html" 
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
+
+[deployment]
+  order = [".jpg$",".svg$",".md$",".html"]
+
+[[deployment.targets]]
+  name = "rtucker-travel-blog"
+  url = "s3://rtucker-travel-blog-01?region=us-west-2"
+  cloudFrontDistributionID = "E1IHRXHOGLL5CT" 
+
+[[deployment.matchers]]
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false

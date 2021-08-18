@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adventure on Home</title>
+    <link>https://racheltravelblog.com/tags/adventure/</link>
+    <description>Recent content in adventure on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://racheltravelblog.com/tags/adventure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disneyland 2017 - Cali Adventure</title>
+      <link>https://racheltravelblog.com/blog/disneyland-cali-adventure/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://racheltravelblog.com/blog/disneyland-cali-adventure/</guid>
+      <description>First Day at California Adventure! </description>
+    </item>
+    
+  </channel>
+</rss>

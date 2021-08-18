@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>disneyworld on Home</title>
+    <link>https://racheltravelblog.com/tags/disneyworld/</link>
+    <description>Recent content in disneyworld on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://racheltravelblog.com/tags/disneyworld/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disneyworld 2021</title>
+      <link>https://racheltravelblog.com/blog/disney-world/</link>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://racheltravelblog.com/blog/disney-world/</guid>
+      <description>First Day at Disney World! </description>
+    </item>
+    
+  </channel>
+</rss>
