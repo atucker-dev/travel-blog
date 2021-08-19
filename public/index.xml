@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rachel&#39;s Travel Blog on Home</title>
-    <link>https://racheltravelblog.com/</link>
+    <link>https://rachelstravelblog.com/</link>
     <description>Recent content in Rachel&#39;s Travel Blog on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://racheltravelblog.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rachelstravelblog.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disneyworld 2021</title>
-      <link>https://racheltravelblog.com/blog/disney-world/</link>
+      <link>https://rachelstravelblog.com/blog/disney-world/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://racheltravelblog.com/blog/disney-world/</guid>
+      <guid>https://rachelstravelblog.com/blog/disney-world/</guid>
       <description>First Day at Disney World! </description>
     </item>
     
     <item>
       <title>Universal Studios 2021</title>
-      <link>https://racheltravelblog.com/blog/universal-studios/</link>
+      <link>https://rachelstravelblog.com/blog/universal-studios/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://racheltravelblog.com/blog/universal-studios/</guid>
+      <guid>https://rachelstravelblog.com/blog/universal-studios/</guid>
       <description>First Day at Universal Studios! </description>
     </item>
     
     <item>
       <title>Disneyland 2017 - Cali Adventure</title>
-      <link>https://racheltravelblog.com/blog/disneyland-cali-adventure/</link>
+      <link>https://rachelstravelblog.com/blog/disneyland-cali-adventure/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://racheltravelblog.com/blog/disneyland-cali-adventure/</guid>
+      <guid>https://rachelstravelblog.com/blog/disneyland-cali-adventure/</guid>
       <description>First Day at California Adventure! </description>
     </item>
     
     <item>
       <title>Disneyland 2017 - Disney</title>
-      <link>https://racheltravelblog.com/blog/disneyland-disney/</link>
+      <link>https://rachelstravelblog.com/blog/disneyland-disney/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://racheltravelblog.com/blog/disneyland-disney/</guid>
+      <guid>https://rachelstravelblog.com/blog/disneyland-disney/</guid>
       <description>First Day at Disney! </description>
     </item>
     
     <item>
       <title>Markdown Examples</title>
-      <link>https://racheltravelblog.com/markdown/</link>
+      <link>https://rachelstravelblog.com/markdown/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://racheltravelblog.com/markdown/</guid>
+      <guid>https://rachelstravelblog.com/markdown/</guid>
       <description> Header Subheader  Types of Lists Checklist:
  todo1 todo2  BulletList:
  item1 item2  NumberList:
@@ -59,10 +59,10 @@ multiline code formatting  Links/Images link to Disneyland website
     
     <item>
       <title>About Me</title>
-      <link>https://racheltravelblog.com/about/</link>
+      <link>https://rachelstravelblog.com/about/</link>
       <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://racheltravelblog.com/about/</guid>
+      <guid>https://rachelstravelblog.com/about/</guid>
       <description>  Things I like  Anything Disney Anything Harry Potter Reading Books Cooking  </description>
     </item>
     
