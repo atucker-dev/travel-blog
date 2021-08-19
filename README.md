@@ -2,7 +2,7 @@
 
 - [Hugo](https://gohugo.io/getting-started/quick-start/)
 - [Blist Theme](https://themes.gohugo.io/themes/blist-hugo-theme/)
-- [AWS S3 static website](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/) using REST API and OAI
+- [AWS S3 static website](https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/) using REST API endpoint and CloudFront OAI
 
 ---
 
@@ -14,7 +14,7 @@ hugo serve --themesDir <path-to-theme>
 ```
 
 **AWS S3**
-< **__NOTE__** AWS CLI setup with valid access key required
+> **__NOTE__** AWS CLI setup with valid access key required
 ```
 hugo
 hugo deploy --target=<deployment.target.name> --dryRun
