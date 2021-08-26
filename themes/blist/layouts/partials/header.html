@@ -9,7 +9,7 @@
     {{ end }}
 
     {{ range .Site.Sections }}
-      <li><a href="{{ .Permalink }}index.html" class="hover:bg-gray-200" >{{ .Title }}</a></li>
+      <li><a href="{{ .Permalink }}" class="hover:bg-gray-200" >{{ .Title }}</a></li>
     {{ end }}
 
     {{ if .Site.Params.enableSearch }}
